@@ -1,0 +1,5 @@
+{
+  /* Skip type checking all .d.ts files. */
+  "extends": "@ignite-ui/ts-config/base.json",
+  "include": ["src"]
+}
